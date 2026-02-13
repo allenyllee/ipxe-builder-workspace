@@ -1,0 +1,8 @@
+[submodule "ipxe-builder-app"]
+	path = ipxe-builder-app
+	url = git@github.com:allenyllee/ipxe-builder-app.git
+	branch = main
+[submodule "ipxe-builder-template"]
+	path = ipxe-builder-template
+	url = git@github.com:allenyllee/ipxe-builder-template.git
+	branch = main
